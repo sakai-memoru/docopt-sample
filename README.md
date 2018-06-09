@@ -5,10 +5,10 @@
 
 ## preference
 - GitHub site
-  + [https://github.com/docopt/docopt:embed]
+  + [https://github.com/docopt/docopt]
 
 - Show Usage in Japanese
-  + [http://bicycle1885.hatenablog.com/entry/2014/06/08/103010:embed]
+  + [http://bicycle1885.hatenablog.com/entry/2014/06/08/103010]
 
 
 ## installation
