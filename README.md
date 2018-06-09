@@ -24,12 +24,15 @@ or
 - docopt形式で、パッケージの\_\_doc__に記述する。
 - 以下のサイトで検証する
   + Try docopt
-    - [http://try.docopt.org/:title]
+    - [http://try.docopt.org/]
 
 - 検証例
   + --version 
+  
 ![try-docopt-version](https://i.imgur.com/KcOSqOD.png)
+  
   + --id=1234 --no=9876
+
 ![try-opt-id-no](https://i.imgur.com/Np5udqz.png)
 
 ### sample statement
